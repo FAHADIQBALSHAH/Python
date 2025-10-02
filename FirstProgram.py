@@ -1,0 +1,6 @@
+print("Hello World")
+print("My name is Fahad Iqbal Shah")
+print("My age is 24")
+print("My name is Fahad Iqbal Shah.", "My age is 24")
+print(23)
+print(23+23)
