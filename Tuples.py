@@ -31,3 +31,10 @@ print(type(tup))
 tup = (2,1,3,1,4)
 print(tup.index(1))
 print(tup.count(1))
+
+
+#Give count of students with Grade A in the given tuple
+
+grade = ("A", "B", "C", "A", "C", "A", "B", "A")
+print(grade)
+print(grade.count("A"))
